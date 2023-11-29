@@ -1,0 +1,9 @@
+body{background-color: #7988D3    ;}
+h1{font-family: Helvetica; font-size: 40px; color:#062FFA   ;}
+p{font-family: Garamond; font-size: 20px; color: floralwhite; display: block;}
+img{border-width: 4px; border-style: double; border-color: white; display: block;}
+a{font-family: Garamond; color: #FC4934   ; font-size: 20px; text-decoration: underline;}
+a:hover{color: darkblue;}
+ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #72CDCF   ;}
+
+
